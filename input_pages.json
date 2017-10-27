@@ -1,0 +1,36 @@
+{
+  "pageList" : [
+  {
+    "start" : 7.920,
+      "duration" : 6.009
+  },
+  {
+    "start" : 113.320,
+    "duration" : 5.230
+  },
+  {
+    "start" : 197.285,
+    "duration" : 8.259
+  },
+  {
+    "start" : 276.965,
+    "duration" : 5.624 
+  },
+  {
+    "start" : 367.983,
+    "duration" : 7.421
+  },
+  {
+    "start" : 555.185,
+    "duration" : 5.230 
+  },
+  {
+    "start" : 638.935,
+    "duration" : 7.779 
+  },
+  {
+    "start" : 719.600,
+    "duration" : 8.059
+  }
+  ] 
+}
